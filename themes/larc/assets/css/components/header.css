@@ -26,13 +26,19 @@
 .site-header .nav-link:focus,
 .site-header .nav-link.active {
   color: var(--blue-400);
-  border-bottom-color: var(--maize-400);
+  border-bottom-color: var(--blue-400);
 }
 
 .site-header .dropdown-item.active,
 .site-header .dropdown-item:active {
   background: var(--color-surface-alt);
   color: var(--blue-400);
+}
+
+.site-header .navbar-toggler,
+.site-header .dropdown-toggle-split {
+  min-width: 2.75rem;
+  min-height: 2.75rem;
 }
 
 @media (max-width: 480px) {

@@ -11,8 +11,15 @@
 
 .site-footer a {
   color: #fff;
+  text-decoration-color: var(--maize-400);
+}
+
+.site-footer :focus-visible {
+  outline-color: var(--maize-400);
 }
 
 .site-footer .nav-link {
   color: #fff;
+  padding-top: 0.625rem;
+  padding-bottom: 0.625rem;
 }

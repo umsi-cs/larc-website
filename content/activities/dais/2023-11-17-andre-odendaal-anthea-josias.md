@@ -2,6 +2,7 @@
 title: "André Odendaal and Anthea Josias"
 date: 2023-11-17
 affiliation: "University of the Western Cape & University of Michigan"
+talkTitle: "Archives and Struggle: Reflections on the Making of the Mayibuye Center and the Robben Island Museum"
 image: "talks/202311_odendaal.png"
 term: "Fall 2023"
 links:

@@ -2,6 +2,7 @@
 title: "Thuy Vo Dang"
 date: 2025-02-20
 affiliation: "University of California at Los Angeles"
+talkTitle: "Shared Authority/Shared Stewardship: Applying Oral History Praxis in the Archives"
 image: "talks/202502_dang.png"
 term: "Winter 2025"
 links:

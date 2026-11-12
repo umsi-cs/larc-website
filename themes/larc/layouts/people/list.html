@@ -42,17 +42,18 @@
                 {{ else }}
                   {{ with resources.Get "images/umsi_sig_INFORMAL_maize-blue.png" }}
                     <div class="img-thumbnail person-photo person-photo--placeholder d-flex align-items-center justify-content-center">
-                      <img class="img-fluid" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="University of Michigan School of Information">
+                      <img class="img-fluid" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
                     </div>
                   {{ end }}
                 {{ end }}
               </div>
               <div class="col">
-                <h3 class="h5 mb-2">{{ .name }}</h3>
+                {{ $name := .name }}
+                <h3 class="h5 mb-2">{{ $name }}</h3>
                 <p class="mb-2">{{ .bio }}</p>
                 {{ with .links }}
                   <p class="mb-0 small">
-                    {{ range $i, $link := . }}{{ if $i }} &middot; {{ end }}<a href="{{ $link.url }}">{{ $link.label }}</a>{{ end }}
+                    {{ range $i, $link := . }}{{ if $i }} &middot; {{ end }}<a href="{{ $link.url }}">{{ $link.label }}<span class="visually-hidden">, {{ $name }}</span></a>{{ end }}
                   </p>
                 {{ end }}
               </div>

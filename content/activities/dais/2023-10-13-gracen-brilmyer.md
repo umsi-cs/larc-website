@@ -2,6 +2,7 @@
 title: "Gracen Brilmyer"
 date: 2023-10-13
 affiliation: "McGill University"
+talkTitle: "Cripping Absence: Thinking through the archival erasure(s) of disability"
 image: "talks/202310_brilmyer.png"
 term: "Fall 2023"
 links:

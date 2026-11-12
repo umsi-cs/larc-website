@@ -2,6 +2,7 @@
 title: "Estevan Rael-Gálvez"
 date: 2025-04-18
 affiliation: "Native Bound Unbound"
+talkTitle: "Native Bound Unbound: The Archive of Indigenous Slavery"
 image: "talks/202504_rael-galvez.png"
 term: "Winter 2025"
 links:

@@ -2,6 +2,7 @@
 title: "Beth Patin"
 date: 2023-12-07
 affiliation: "Syracuse University"
+talkTitle: "From Erasure to Empowerment: The Role of Information in Fighting Epistemicide"
 image: "talks/202312_patin.png"
 term: "Fall 2023"
 links:

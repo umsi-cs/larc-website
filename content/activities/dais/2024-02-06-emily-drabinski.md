@@ -2,6 +2,7 @@
 title: "Emily Drabinski"
 date: 2024-02-06
 affiliation: "Queens (NY) University, President of the American Library Association (2023-2024)"
+talkTitle: "What’s Critical About Critical Librarianship?"
 acknowledgment: "We gratefully acknowledge additional financial support for this talk, which was provided by the William W. Bishop Fund."
 image: "talks/202402_drabinski.png"
 term: "Winter 2024"
