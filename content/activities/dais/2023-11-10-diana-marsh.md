@@ -2,6 +2,7 @@
 title: "Diana Marsh"
 date: 2023-11-10
 affiliation: "University of Maryland"
+talkTitle: "Indigenizing Archival Discovery: Centering Communities in Research on Reparative Networks, Platforms and Linked Data"
 image: "talks/202311_marsh.png"
 term: "Fall 2023"
 links:

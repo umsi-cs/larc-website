@@ -2,6 +2,7 @@
 title: "Jarrett Drake"
 date: 2024-03-26
 affiliation: "Harvard University"
+talkTitle: "The Museum as Kaleidoscope: On Plantations Past and Present in Louisiana"
 acknowledgment: "We gratefully acknowledge additional financial support for this talk, which was provided by the U-M Museum Studies Program."
 image: "talks/202403_drake.png"
 term: "Winter 2024"

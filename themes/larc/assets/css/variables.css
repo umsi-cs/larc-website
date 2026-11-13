@@ -36,6 +36,7 @@
   --bs-primary-rgb: 0, 39, 76;
   --bs-link-color: var(--blue-400);
   --bs-link-color-rgb: 0, 39, 76;
-  --bs-link-hover-color: var(--teal-500);
-  --bs-link-hover-color-rgb: 16, 102, 132;
+  --bs-link-hover-color: var(--blue-500);
+  --bs-link-hover-color-rgb: 0, 19, 36;
+  --bs-secondary-color: var(--neutral-350);
 }

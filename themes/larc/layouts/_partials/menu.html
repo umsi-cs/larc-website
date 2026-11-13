@@ -32,7 +32,7 @@ Renders a Bootstrap navbar-nav for the given menu ID.
               <li>
                 <a
                   class="dropdown-item{{ if $page.IsMenuCurrent .Menu . }} active{{ end }}"
-                  href="{{ .URL }}"
+                  href="{{ .URL }}"{{ if $page.IsMenuCurrent .Menu . }} aria-current="page"{{ end }}
                 >{{ .Name }}</a>
               </li>
             {{- end }}

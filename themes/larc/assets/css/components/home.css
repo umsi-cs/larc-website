@@ -22,6 +22,12 @@
   }
 }
 
+@media (prefers-reduced-motion: reduce) {
+  .hero {
+    background-attachment: scroll;
+  }
+}
+
 .hero h1,
 .hero__eyebrow {
   color: #fff;

@@ -2,6 +2,7 @@
 title: "Jean-Damascène Gasanabo, PhD"
 date: 2023-03-09
 affiliation: "Former Director General of the Research and Documentation Center on Genocide at the Rwanda National Commission for the Fight against Genocide (CNLG)"
+talkTitle: "Genocide ideology and denial in Rwanda; Building the Gacaca digital archive"
 eventDateDisplay: "March 9-10, 2023"
 term: "Winter 2023"
 image: "talks/202303_gasanabo.png"

@@ -2,6 +2,7 @@
 title: "Benjamin Lee"
 date: 2026-05-15
 affiliation: "University of Washington"
+talkTitle: "Computing Cultural Heritage: AI, Discoverability, and Scale"
 image: "talks/202605_lee.png"
 term: "Winter 2026"
 links:

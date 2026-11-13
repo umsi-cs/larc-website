@@ -2,6 +2,7 @@
 title: "Trevor Owens"
 date: 2025-03-20
 affiliation: "American Institute of Physics"
+talkTitle: "From Collections to Connections: Centering Belonging in Archival Futures"
 image: "talks/202503_owens.png"
 term: "Winter 2025"
 acknowledgment: "We gratefully acknowledge additional support for this talk provided by the University Library and the University of Michigan Press."

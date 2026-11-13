@@ -2,6 +2,7 @@
 title: "J. J. Ghaddar, PhD"
 date: 2023-04-18
 affiliation: "Dalhousie University"
+talkTitle: "From archival pasts to provenance in place: toward antiracist, feminist futures in archival studies"
 term: "Winter 2023"
 image: "talks/202304_ghaddar.png"
 links:

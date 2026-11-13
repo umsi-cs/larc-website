@@ -2,6 +2,7 @@
 title: "Marika Cifor"
 date: 2026-03-27
 affiliation: "University of Washington"
+talkTitle: "Data Activism Before Datafication: HIV/AIDS Buyer’s Clubs and the Politics of Treatment Information"
 image: "talks/202603_cifor.png"
 term: "Winter 2026"
 links:

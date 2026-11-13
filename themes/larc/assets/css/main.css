@@ -13,7 +13,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  text-decoration-color: var(--maize-400);
   text-decoration-thickness: 2px;
   text-underline-offset: 2px;
 }
@@ -31,7 +30,18 @@ a {
   transition: top 0.15s ease-in-out;
 }
 
+:focus-visible {
+  outline: 3px solid var(--blue-400);
+  outline-offset: 2px;
+}
+
 .skip-link:focus {
   top: 0;
   color: #fff;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .skip-link {
+    transition: none;
+  }
 }

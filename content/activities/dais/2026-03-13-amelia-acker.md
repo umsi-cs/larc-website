@@ -2,6 +2,7 @@
 title: "Amelia Acker"
 date: 2026-03-13
 affiliation: "Rutgers University, New Jersey"
+talkTitle: "Archiving Machines: From Punch Cards to Platforms"
 image: "talks/202603_acker.png"
 term: "Winter 2026"
 links:
